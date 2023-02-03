@@ -7,5 +7,5 @@ This is a project with automated tests  for different functionalities of the web
 ## Tools
 
 * Maven
-* JUnit
+* TestNG
 * Selenium Webdriver
